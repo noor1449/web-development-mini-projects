@@ -1,6 +1,6 @@
 # Simple Quiz App
 A clean, responsive, and interactive frontend Quiz Application built using vanilla HTML5, CSS3, and JavaScript (ES6). This application dynamically renders multiple-choice questions focusing on Core Computer Science and Data Science topics, provides real-time instant feedback on answer selections, tracks the player's score, and features a smooth restart capability.
-
+To use it just click the given link: https://noor1449.github.io/web-development-mini-projects/quiz-app/index.html
 ## Features
 1. Dynamic Question Rendering: Questions, answer options, and indices are completely managed in JavaScript and dynamically injected into the DOM.
 2. Instant Visual Feedback: Upon selecting an option, the button immediately highlights green for correct answers or red for incorrect answers.
