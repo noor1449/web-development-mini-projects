@@ -2,7 +2,7 @@
 A clean, responsive, and interactive web application that instantly converts text or website URLs into downloadable QR codes using a public API. Built with semantic HTML5, stylized CSS layout animations, and Vanilla JavaScript.
 ## Live Demo
 You can view and test the live project running directly in your browser here:
-[https://noor1449.github.io/projectname/index.html]
+https://noor1449.github.io/web-development-mini-projects/QR-code-generator/index.html
 ## Features
 - **Instant QR Generation:** Uses the public QR Server API to generate high-quality 150x150 dynamic QR matrix codes immediately.
 - **Input Error Validation:** Includes smart client-side error handling that triggers an error animation class if the user attempts to generate a code with an empty input field.
