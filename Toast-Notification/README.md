@@ -2,7 +2,7 @@
 A crisp, interactive notification toast system that slides cleanly onto the screen to display feedback status messages. Built using semantic HTML5, localized transition animations via CSS, and dynamic DOM manipulation using Vanilla JavaScript.
 ## Live Demo
 You can view and test the live project running directly in your browser here:
-[https://noor1449.github.io/projectname/index.html]
+https://noor1449.github.io/web-development-mini-projects/Toast-Notification/index.html
 ## Features
 - **Dynamic Element Creation:** Uses JavaScript to generate new alert pop-ups dynamically on click events without hardcoding individual message containers inside the HTML body.
 - **Context-Specific Color Coding:** Evaluates message contents to conditionally append operational utility classes (`.error`, `.Invalid`) that shift badge highlights matching the event status.
