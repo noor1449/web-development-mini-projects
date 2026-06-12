@@ -1,6 +1,7 @@
 # Age Calculator
 A smooth, interactive web application that calculates a user's exact age in years, months, and days based on their birthdate. Built natively with HTML5, CSS3 linear gradients, and vanilla JavaScript, this utility handles calendar date-math complexities (such as varying days in a month and leap years) on the client side without external packages.
-
+To use it just click the following link:
+https://noor1449.github.io/web-development-mini-projects/age-calculator-app/index.html
 ## Features
 1. Exact Breakdown: Computes and displays age down to the precise number of years, months, and days.
 2. Future-Date Prevention: Automatically restricts the calendar input picker to the current date, blocking users from selecting dates in the future.
