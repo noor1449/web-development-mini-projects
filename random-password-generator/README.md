@@ -1,5 +1,6 @@
 # Random Password Generator
 A sleek, responsive, and secure web-based application that generates strong, randomized passwords instantly. Built using vanilla HTML5, CSS3, and modern JavaScript (ES6), this tool ensures a balanced mix of character types for enhanced security and features a one-click copy mechanism.
+To use it just click the given link:https://noor1449.github.io/web-development-mini-projects/random-password-generator/index.html
 ## Features
 1. Guaranteed Complexity: Every generated password is 12 characters long and automatically includes at least one uppercase letter, one lowercase letter, one number, and one special symbol.
 2. One-Click Clipboard Copy: Easily copy the generated password to your clipboard by clicking the integrated copy icon.
