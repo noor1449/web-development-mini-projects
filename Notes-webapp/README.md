@@ -1,5 +1,6 @@
 # Interactive Notes Web App
 A clean, responsive, and dynamic Notes application built using vanilla HTML, CSS, and JavaScript. This web app lets you quickly create, edit, and delete text notes with real-time saving.
+To use it just click the link: https://noor1449.github.io/web-development-mini-projects/Notes-webapp/index.html
 ## Features
 1. Instant Note Generation: Create custom notes dynamically with a single button click.
 2. Inline Rich-Editing: Every note uses the `contenteditable` attribute, allowing users to type and edit text directly inside the web page.
