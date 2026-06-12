@@ -2,6 +2,7 @@
 A sleek, responsive, and minimalistic calculator web application built using standard **HTML5**, **CSS3 (Grid/Flexbox properties)**, and inline **JavaScript**. The design features a modern dark UI overlay on an off-white background, complete with custom button highlights for operations.
 # Live Demo
 You can run and test this project directly in your browser without downloading anything:
+https://noor1449.github.io/web-development-mini-projects/calculator/index.html
 # Features
 1. Instant Evaluation: Leverages dynamic inline JavaScript expression evaluation for math computations (`+`, `-`, `*`, `/`).
 2. Display Utilities: Includes an **AC** (All Clear) function and a **DE** (Delete/Backspace) button that slices off the last character.
