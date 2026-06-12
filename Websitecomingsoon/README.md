@@ -1,16 +1,14 @@
-# Toast Notifications
-A crisp, interactive notification toast system that slides cleanly onto the screen to display feedback status messages. Built using semantic HTML5, localized transition animations via CSS, and dynamic DOM manipulation using Vanilla JavaScript.
-
+# Website Coming Soon (Launch Countdown)
+A sleek, responsive, and animated "Coming Soon" splash page featuring a real-time dynamic countdown timer. Built using structural HTML5, stylized CSS layout formatting, and Vanilla JavaScript to track a precise future launch target.
 ## Live Demo
 You can view and test the live project running directly in your browser here:
-[https://noor1449.github.io/projectname/index.html]
-
+https://noor1449.github.io/web-development-mini-projects/websitecomingsoon/index.html
 ## Features
-- **Dynamic Element Creation:** Uses JavaScript to generate new alert pop-ups dynamically on click events without hardcoding individual message containers inside the HTML body.
-- **Context-Specific Color Coding:** Evaluates message contents to conditionally append operational utility classes (`.error`, `.Invalid`) that shift badge highlights matching the event status.
-- **Auto-Dismiss Lifecycle Timing:** Implements a localized timeout mechanism that cleanly updates the interface by destroying notification objects after 6 seconds of exposure.
-
-## 📂 Project Structure
+- **Live Countdown Timer:** Uses active JavaScript interval counters to mathematically calculate and display remaining days, hours, minutes, and seconds relative to the user's current system time.
+- **Automated Expiration Safety:** Implements conditional checking loops that gracefully clear running intervals and lock values to `00` as soon as the targeted milestone deadline arrives.
+- **Clean Structural Grouping:** Time slots are broken down into descriptive child divisions for flexible, fluid grid formatting.
+## Project Structure
 ```text
-├── index.html       # Visual click triggers, target toast grid box, and core runtime scripts
-└── style.css        # Layout layout properties (Note: Make sure your styles align toasts in a fixed stack)
+├── index.html       # Visual layout structure, media hooks, and core countdown calculation logic
+├── style.css        # Visual aesthetic properties (background palettes and fonts)
+└── assets/          # Internal branding assets (e.g., `logo.png`, `triangle.png`, `rocket.png`)
