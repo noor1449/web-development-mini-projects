@@ -2,7 +2,7 @@
 A smooth, interactive, and responsive horizontal image gallery featuring mouse-wheel navigation and dedicated next/prev click controls. Built using structural HTML5, CSS layout design, and Vanilla JavaScript for custom scroll-behavior control.
 ##  Live Demo
 You can view and test the live project running directly in your browser here:
-[https://noor1449.github.io/projectname/index.html]
+https://noor1449.github.io/web-development-mini-projects/Image-Gallery/index.html
 ## Features
 - Dual Navigation Controls: Seamlessly navigate using either the **Next/Back** overlay buttons or your mouse scroll-wheel.
 - Dynamic Scroll-Behavior Toggling: Switches between `smooth` scrolling on button clicks for a pleasant UI animation, and `auto` scrolling on mouse-wheels for responsive, real-time tracking.
